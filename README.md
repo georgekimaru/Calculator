@@ -1,3 +1,3 @@
 # Calculator
-Simple Calculator - Feel free to add changes to this calculator.
+A Javascript Calculator - Feel free to add changes to this calculator.
 Cheers!
